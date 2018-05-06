@@ -1,0 +1,25 @@
+{
+  "name": "googlegeocode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haronYunis/googleGeoCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haronYunis/googleGeoCode/issues"
+  },
+  "homepage": "https://github.com/haronYunis/googleGeoCode#readme",
+  "dependencies": {
+    "browserify": "^16.2.0"
+  },
+  "devDependencies": {
+    "dotenv": "^5.0.1"
+  }
+}
